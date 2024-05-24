@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(to right, #ffffff, #cffcf1);
+  height: 100vh;
+  background-size: cover;
+  margin: 0;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  text-align: center;
+  margin: 30px;
+  padding: 50px;
+}
+.img {
+  width: 500px;
+}
+.timer-display-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+}
